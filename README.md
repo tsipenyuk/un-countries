@@ -1,2 +1,2 @@
 # un-countries
-A list of UN countries in a few languages
+JSON lists of 193 UN countries.
